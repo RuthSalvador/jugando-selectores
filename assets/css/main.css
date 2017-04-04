@@ -1,0 +1,44 @@
+body {
+  padding: 10px;
+}
+
+h1 {
+  color: #2ba2ad;
+}
+
+strong, a {
+  color: #ff0000;
+}
+
+.mostaza {
+  color: #ecbd30;
+}
+
+table, table em , #final-pag a {
+  color: #61e844;
+}
+
+table, th, td{
+  border-collapse: collapse;
+
+  border: #968d90 1px solid;
+}
+
+h2, em, caption {
+  color: #0148ff;
+}
+
+.lila {
+  color: #9d4ade;
+}
+
+#final-pag {
+  color: #43630f;
+}
+
+footer{
+  background-color: #5c5b5b;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px;
+}
